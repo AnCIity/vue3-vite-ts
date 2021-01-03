@@ -1,6 +1,5 @@
 import { defineComponent } from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
-import './index.css'
 
 interface IProps {
   name: string
